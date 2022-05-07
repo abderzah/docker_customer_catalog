@@ -1,4 +1,4 @@
-# docker_customer_catalog
+# Exemple Docker compose (plusieurs conteneurs)
 
 Exemple d'application Docker pour PHP Web avec MySQL.
 
