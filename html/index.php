@@ -10,9 +10,9 @@
   <div class = "container">
     <div class="jumbotron">
       <h1 class="display-4">Docker app</h1>
-      <p class="lead">Ejemplo de aplicacion PHP y MySQL con contenedores</p>
+      <p class="lead">Exemple d'application PHP et MySQL avec conteneurs</p>
       <hr class="my-4">
-      <p>Usa un contenedor para Apache/PHP y otro para MySQL con almacenamiento de aplicación y de datos en volúmenes externos</p>
+      <p>L'application utilise un conteneur pour Apache/PHP et un pour MySQL avec stockage d'applications et de données sur des volumes externes</p>
     </div>
     <table class="table table-striped table-responsive">
       <thead>
