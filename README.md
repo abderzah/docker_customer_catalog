@@ -27,6 +27,7 @@ cd docker_customer_catalog
 ```shell
 docker-compose up -d
 ```
+- Vérifier que l'application est en cours d'exécution. Pour ce faire, ouvrez un navigateur et tapez ```localhost```
 
 - Arrêtez l'environnement avec :
 ```shell
