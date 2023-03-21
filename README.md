@@ -15,7 +15,7 @@ docker-composer --version
 
 - Cloner le référentiel :
  ```shell
-git clone git@github.com:juanluck/docker_customer_catalog.git
+git clone git@github.com:abderzah/docker_customer_catalog.git
 ```
 
 - Aller au référentiel :
